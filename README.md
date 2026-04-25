@@ -1,21 +1,14 @@
-<div align="center">
+# Hey, I'm Matias Castro 👋
 
-<!-- Typing animation header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Matias+Castro+%F0%9F%91%8B;Full+Stack+Developer;Data+%26+Software+Engineer;Available+for+Freelance+Work)](https://git.io/typing-svg)
-
-<br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&width=600&lines=Full+Stack+Developer;Data+%26+Software+Engineer;Available+for+Freelance+Work)](https://git.io/typing-svg)
 
 **CS Student @ Université de Poitiers** · Lima, Perú 🇵🇪 → Poitiers, France 🇫🇷
 
 *Building clean software and data-driven solutions. Open to freelance projects.*
 
-<br/>
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d0d1a?style=for-the-badge&logo=vercel&logoColor=00D4FF)](https://portfolio-sable-psi-33.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matias-jose-castro-mendoza-25a80b344)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matias_mjcm@hotmail.com)
-
-</div>
 
 ---
 
@@ -62,10 +55,8 @@ I'm a software engineering student with a background in algorithms, systems, and
 ## GitHub Stats
 
 <div align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=matiasmjcm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasmjcm&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
 </div>
 
 ---
@@ -86,4 +77,3 @@ I'm a software engineering student with a background in algorithms, systems, and
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=matiasmjcm&color=00D4FF&style=flat-square&label=Profile+Views" />
 </div>
-
